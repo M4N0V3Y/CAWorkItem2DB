@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <AzureDevOps>
-	<uri>https://dev.azure.com/barbosajaf/</uri>
-	<tokenPA>vyvp2z6hpq7kwm4hnbpavbjbitlwhjflyecomxootzy7llcuop4q</tokenPA>
-	<project>AzureEngenhosDevOps</project>
+	<uri>https://dev.azure.com/<algum projeto>/</uri>
+	<tokenPA>informarATokenPA</tokenPA>
+	<project>NOME do projeto AZURE</project>
+	<!-- você precisa criar este arquivo nesta pasta no disco C do seu desktop ou outra pasta conforme sua escolha -->
+        <!-- inclusive este XML deve ser colocado nesta mesma pasta -->
 	<DBFileName>Filename=C:\\AzureWorkItemsDb\\AzureWorkItemsDb.db</DBFileName>
 </AzureDevOps>
