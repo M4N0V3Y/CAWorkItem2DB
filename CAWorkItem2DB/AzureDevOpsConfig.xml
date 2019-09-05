@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AzureDevOps>
+	<uri>https://dev.azure.com/barbosajaf/</uri>
+	<tokenPA>vyvp2z6hpq7kwm4hnbpavbjbitlwhjflyecomxootzy7llcuop4q</tokenPA>
+	<project>AzureEngenhosDevOps</project>
+	<DBFileName>Filename=C:\\AzureWorkItemsDb\\AzureWorkItemsDb.db</DBFileName>
+</AzureDevOps>
