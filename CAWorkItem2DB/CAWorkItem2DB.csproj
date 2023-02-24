@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="LiteDB" Version="4.1.4" />
+    <PackageReference Include="LiteDB" Version="5.0.13" />
     <PackageReference Include="Microsoft.TeamFoundationServer.Client" Version="16.153.0" />
   </ItemGroup>
 
